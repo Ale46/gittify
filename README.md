@@ -5,7 +5,7 @@ It makes it seem-less to create "today-i-read" repository where you put all the 
 
 ## Installation
 
-- Download the extension from release page and [load it manually](http://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system/247654#247654)
+- Download the extension from [release page](https://github.com/Ale46/gittify/releases/) and [load it manually](http://superuser.com/questions/247651/how-does-one-install-an-extension-for-chrome-browser-from-the-local-file-system/247654#247654)
 
 ## Setup
 
