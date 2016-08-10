@@ -20,6 +20,9 @@ It makes it seem-less to create "today-i-read" repository where you put all the 
 - The markdown/text based page (html, php, asp) files only store text, other resources (images, video, css, js) are not pushed in the repository
 - Other files (pdf, txt, etc.) should work fine
 
+## Preview
+[Demo](http://i.imgur.com/hd0TzYb.gifv)
+
 
 ## License
 
