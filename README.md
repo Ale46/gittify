@@ -10,7 +10,6 @@ It makes it seem-less to create "today-i-read" repository where you put all the 
 ## Setup
 
 - First things, create a repository to which you would want the links to the liked content be added
-- Now add a file e.g. README.md. This is the file that will be holding your likes and you'll have to provide it while setting up the options in the step below.
 - Right click the extension icon (thumb icon) in the bar and click the options page
 - At the options page, add the specified details
 
